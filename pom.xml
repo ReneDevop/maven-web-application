@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <urlhttp://54.81.248.171:8081/repository/zelle_release/></url>
+	      <url>http://54.81.248.171:8081/repository/zelle_release</url>
 	    </repository>
 	    
 	    <snapshotRepository>
